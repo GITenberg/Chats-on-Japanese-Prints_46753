@@ -1,4 +1,8 @@
 _repo: Chats-on-Japanese-Prints_46753
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46753-h/images/cover.jpg
 creator:
   author:
     agent_name: Ficke, Arthur Davison
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '26668'
     url: http://www.gutenberg.org/2009/agents/26668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46753#Chats-on-Japanese-Prints
 gutenberg_issued: '2014-09-02'
 gutenberg_type: Text
 identifiers:
